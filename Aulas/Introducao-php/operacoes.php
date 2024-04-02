@@ -3,7 +3,6 @@
 $A = 2;
 $B = 3;
 
-$SOMA = $A + $B;
+$SOMA = $A * $B;
 
-print($SOMA)
-?>
+print($SOMA);
